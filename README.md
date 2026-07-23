@@ -1,8 +1,8 @@
-# Maty Motors - Showroom Premium 🏎️✨
+# Maty Motors - Showroom Premium 
 
 Un catálogo digital de alta gama diseñado para un bróker de vehículos deportivos y de lujo. Desarrollado con un enfoque *mobile-first*, este showroom destaca por su interfaz moderna, efectos visuales premium y optimización para conversiones directas vía WhatsApp.
 
-## 🌟 Características Principales
+##  Características Principales
 
 *   **Diseño Premium (Glassmorphism):** Interfaz elegante con fondos oscuros translúcidos, desenfoques profundos (backdrop-blur) y bordes sutiles que resaltan los vehículos.
 *   **Catálogo Mobile-First:** Experiencia de usuario pensada al 100% para dispositivos móviles, garantizando una navegación fluida y nativa.
@@ -10,13 +10,13 @@ Un catálogo digital de alta gama diseñado para un bróker de vehículos deport
 *   **Llamados a la Acción (CTA) Optimizados:** Botones estratégicamente ubicados y diseñados para dirigir consultas directamente al WhatsApp del vendedor.
 *   **Perfil Verificado:** Cabecera de autoridad con insignia de verificación para generar confianza inmediata en el comprador.
 
-## 🛠️ Tecnologías Utilizadas
+##  Tecnologías Utilizadas
 
 *   **HTML5 Semántico:** Estructura limpia y accesible.
 *   **Tailwind CSS:** Framework de utilidades para estilos rápidos, responsivos y modernos. (Implementado vía CDN para máxima portabilidad).
 *   **Tipografía y Assets:** Fuentes premium de Google Fonts (Outfit, Inter) y texturas superpuestas (Fibra de carbono) para profundidad visual.
 
-## 🚀 Despliegue (Deploy)
+##  Despliegue (Deploy)
 
 Este proyecto está diseñado para ser alojado de manera estática y gratuita utilizando **GitHub Pages**.
 
@@ -27,7 +27,7 @@ Este proyecto está diseñado para ser alojado de manera estática y gratuita ut
 4. Elegí la rama `main` y la carpeta `/ (root)`.
 5. Hacé clic en **Save** y en un par de minutos tu catálogo estará en vivo.
 
-## 📁 Estructura de Archivos
+##  Estructura de Archivos
 
 Para garantizar compatibilidad absoluta con el despliegue automático, todos los archivos (código e imágenes) se encuentran en el nivel principal del repositorio:
 
