@@ -20,13 +20,6 @@ Un catálogo digital de alta gama diseñado para un bróker de vehículos deport
 
 Este proyecto está diseñado para ser alojado de manera estática y gratuita utilizando **GitHub Pages**.
 
-### Cómo desplegar en GitHub Pages:
-1. Subí todos los archivos (`index.html` y las imágenes) a la raíz (root) de un repositorio público en GitHub.
-2. Andá a la pestaña **Settings** > **Pages**.
-3. En *Build and deployment*, seleccioná **Deploy from a branch**.
-4. Elegí la rama `main` y la carpeta `/ (root)`.
-5. Hacé clic en **Save** y en un par de minutos tu catálogo estará en vivo.
-
 ##  Estructura de Archivos
 
 Para garantizar compatibilidad absoluta con el despliegue automático, todos los archivos (código e imágenes) se encuentran en el nivel principal del repositorio:
